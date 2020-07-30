@@ -4,3 +4,18 @@ theme:
   palette:
     primary: 'blue'
     accent: 'blue'
+nav:
+- 'Introduction' : 'index.md'
+- 'Workshop' : 'workshop.md'
+- 'Users' :
+  - 'Alice' : 'people/Alice.md'
+  - 'Bob' : 'people/Bob.md'
+  - 'George' : 'people/George.md'
+  - 'John' : 'people/John.md'
+  - 'Paul' : 'people/Paul.md'
+  - 'Ringo' : 'people/Ringo.md'
+
+
+
+repo_name: 'adriancollins/DLC'
+repo_url: 'https://github.com/adriancollins/DLC'
