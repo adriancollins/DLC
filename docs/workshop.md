@@ -13,7 +13,7 @@ You'll learn
 ## Prerequisites
 Before starting this guide, please make sure you have the following.
 
-* GitHub access to this [repo](https://github.com/mckesson/DLC).
+* GitHub access to this [repo](https://github.com/adriancollins/DLC).
 * [GitHub Desktop](https://desktop.github.com/)
 * [Python 3 and pip3](https://www.python.org/downloads/). Follow [these instructions](https://ehmatthes.github.io/pcc/chapter_01/osx_setup.html#current_version) to check if Python is already installed on your computer. By default, some Apple computers have this pre-installed.
 * Text editor of your choice. We recommend [Atom](https://atom.io/).
