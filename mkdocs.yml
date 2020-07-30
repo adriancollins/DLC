@@ -1,4 +1,4 @@
-site_name: McDocs
+site_name: GitHub Docs-as-Code Workshop
 theme:
   name: 'material'
   palette:
